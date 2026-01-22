@@ -56,7 +56,8 @@ print(my_number)
 my_number //= 4 # division entera y asignacion 
 
 # operadores de identidad: nos sirven para comprar valores . valores de la posicion de memoria
-
+my_new_number = my_number
+print (f"my_number is my_new_number es {my_number is my_new_number}")
 
 
 
