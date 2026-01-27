@@ -93,7 +93,40 @@ print("my_string es 'edward'")
 else 
 print(" El string no es mouredev")
 
+# iterativas
 
+for i in range(11):
+print(i)
+
+i = 0
+
+while i <= 10:
+print (i)
+i += 1
+
+# manejo de exepciones
+
+try 
+print (10 / 0)
+
+except:
+print ( "se ha producido un error")
+
+finally
+print ( " se ha finalizado el manejo de exepciones")
+
+# extra 
+"""
+Crea un programa que imprima por consola todos los números comprendidos
+ * entre 10 y 55 (incluidos), pares, y que no son ni el 16 ni múltiplos de 3.
+ """
+
+ for number in range (10 ,56)
+if ( number % 2 = 0 and number != 16 and number % 3 != 0 ;
+
+ print(number)
+
+ voy por el min 1:13 min
 
 
 
