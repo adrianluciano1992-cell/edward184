@@ -69,9 +69,15 @@ print ( f " 'b' is not 'mouredev' = {'u ' is not 'mouredev'})
 a = 3 # 1010
 b = 10 # 0011
 
-print (f " AND 10 & 3 = {10 & 3}") # 0010
-print (f " OR 10 | 3 = {10 | 3})
-PRINT (F " xor 10 ^ 3 = {10 ^ 3})
+print (f " AND: 10 & 3 = {10 & 3}") # 0010
+print (f " OR: 10 | 3 = {10 | 3}) # 1011
+print (f " XOR: 10 ^ 3 = {10 ^ 3}) # 1001 
+print (f " NOT: ~ 10 = {~ 10}) 
+print (f " desplazamiento a la derecha : 10 >> 2 {10 >> 2}) # 0010
+print (f "desplazamiento a la izquierda: 10 << 2 { 10 << 2}) # 101000
+
+
+
 
 
 
