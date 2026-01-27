@@ -76,6 +76,22 @@ print (f " NOT: ~ 10 = {~ 10})
 print (f " desplazamiento a la derecha : 10 >> 2 {10 >> 2}) # 0010
 print (f "desplazamiento a la izquierda: 10 << 2 { 10 << 2}) # 101000
 
+"""
+Estructura de 
+control
+"""
+
+# condicionales 
+
+my_string = mouredev
+
+if(my_string == mouredev)
+print(" El string si es mouredev")
+elif my_string == "edward"
+print("my_string es 'edward'")
+
+else 
+print(" El string no es mouredev")
 
 
 
