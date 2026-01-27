@@ -59,6 +59,20 @@ my_number //= 4 # division entera y asignacion
 my_new_number = my_number
 print (f"my_number is my_new_number es {my_number is my_new_number}")
 
+# operadores de pertenencia si algo le pertenese a algo
+
+print ( f "'u' in 'mouredev' = {'u' in 'mouredev'})
+print ( f " 'b' is not 'mouredev' = {'u ' is not 'mouredev'})
+
+# operadores de bit casi no se usan pero igual tomar en cta 
+
+a = 3 # 1010
+b = 10 # 0011
+
+print (f " AND 10 & 3 = {10 & 3}") # 0010
+print (f " OR 10 | 3 = {10 | 3})
+PRINT (F " xor 10 ^ 3 = {10 ^ 3})
+
 
 
 
