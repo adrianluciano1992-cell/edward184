@@ -126,7 +126,7 @@ if ( number % 2 = 0 and number != 16 and number % 3 != 0 ;
 
  print(number)
 
- voy por el min 1:13 min
+
 
 
 
